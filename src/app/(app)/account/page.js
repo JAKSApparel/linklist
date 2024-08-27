@@ -29,7 +29,7 @@ export default async function AccountPage({ searchParams }) {
       console.error("Failed to connect to MongoDB:", error);
       return (
         <div>
-          <p>Sorry, we're having trouble connecting to the database. Please try again later.</p>
+          <p>Sorry, we&apos;re having trouble connecting to the database. Please try again later.</p>
         </div>
       );
     }

@@ -17,8 +17,8 @@ export default async function Header() {
             <span className="font-bold">LinkList</span>
           </Link>
           <nav className="flex items-center gap-4 text-slate-500 text-sm">
-            <Link href={'/about'}>About</Link>
-            <Link href={'/pricing'}>Pricing</Link>
+            <Link href={'https://www.tylerdipolito.com'}>About</Link>
+            <Link href={'https://buy.stripe.com/00geUYaukcX1fV64gA'}>Pricing</Link>
             <Link href={'/contact'}>Contact</Link>
           </nav>
         </div>
