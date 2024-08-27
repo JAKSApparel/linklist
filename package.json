@@ -19,7 +19,7 @@
     "clone-deep": "^4.0.1",
     "date-fns": "^2.30.0",
     "mongodb": "^6.2.0",
-    "mongoose": "^8.0.1",
+    "mongoose": "^8.5.4",
     "next": "14.0.2",
     "next-auth": "^4.24.5",
     "object-copy": "^1.0.0",
